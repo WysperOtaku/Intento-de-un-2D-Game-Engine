@@ -3,8 +3,8 @@ Pues un motorcillo hecho con C++, en progreso.
 
 _Sobre el repositorio_
 [![WysperOtaku - 2D-Game-Engine](https://img.shields.io/static/v1?label=WysperOtaku&message=2D-Game-Engine&color=green&logo=github)](https://github.com/WysperOtaku/Intento-de-un-2D-Game-Engine)
-[![stars - Ejercicios-CSharp](https://img.shields.io/github/stars/WysperOtaku/Intento-de-un-2D-Game-Engine?style=social)](https://github.com/WysperOtaku/Ejercicios-CSharp)
-[![forks - Ejercicios-CSharp](https://img.shields.io/github/forks/WysperOtaku/Intento-de-un-2D-Game-Engine?style=social)](https://github.com/WysperOtaku/Ejercicios-CSharp)
+[![stars - Ejercicios-CSharp](https://img.shields.io/github/stars/WysperOtaku/Intento-de-un-2D-Game-Engine?style=social)](https://github.com/WysperOtaku/Intento-de-un-2D-Game-Engine)
+[![forks - Ejercicios-CSharp](https://img.shields.io/github/forks/WysperOtaku/Intento-de-un-2D-Game-Engine?style=social)](https://github.com/WysperOtaku/Intento-de-un-2D-Game-Engine)
 ![contributors](https://img.shields.io/github/contributors/WysperOtaku/Intento-de-un-2D-Game-Engine)
 
 ## Hecho con
